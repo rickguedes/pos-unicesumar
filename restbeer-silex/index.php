@@ -113,5 +113,5 @@ $app->after(function (Request $request, Response $response) use ($app) {
     return $response;
 });
 
-
+// executar
 $app->run();
